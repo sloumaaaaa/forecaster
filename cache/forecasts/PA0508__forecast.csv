@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0508,CADIVEU ESSENTIALS -QS QUARTZ POWER DROPS 65ML,CADIVEU,SOINS CAPILLAIRES,2026,4054.402666666667,4914.390608,1244.1759999999776,,,2988.0834399999967,3300.26317866666,"[2022, 2023, 2024, 2025]","[7180.112, 4513.536, 5630.88, 2018.792]",4835.830000000001,7180.112,2018.792,1881.9762959389261,-71.88355836232081,4

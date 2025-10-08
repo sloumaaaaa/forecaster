@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBGDT550,RB GEL DOUCHE TROPICAL550ML-6192488205870,RENEE BLANCHE,MASS MARKET,2025,13566.800000000001,14289.875399999999,0.0,,,6773.967120000008,8657.660630000002,"[2022, 2023, 2024]","[20586.711, 20352.441, -238.752]",13566.800000000001,20586.711,-238.752,9762.467930011448,-101.15973843514878,3

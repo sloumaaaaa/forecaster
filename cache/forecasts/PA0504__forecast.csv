@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0504,CADIVEU ESSENTIALS -QS MASK 200 ML,CADIVEU,SOINS CAPILLAIRES,2026,5417.190666666666,4551.578375,2275.7309999996796,,,3216.757149999997,3865.314297916586,"[2022, 2023, 2024, 2025]","[4478.597, 9352.802, 4767.481, 2131.289]",5182.5422499999995,9352.802,2131.289,2615.7708010429137,-52.411681604752545,4

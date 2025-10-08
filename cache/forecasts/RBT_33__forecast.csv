@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBT/33,TEINT RENEE BLANCHE 33 INT JAUNE 60ML,RENEE BLANCHE,COLORATION 60ML,2026,150.33666666666664,831.4420789999999,0.0,,,70.06730999999995,262.9615139166666,"[2021, 2022, 2023, 2024, 2025]","[3372.368, -591.712, 226.34099999999998, 200.546, 24.123]",646.3331999999999,3372.368,-591.712,1394.7248371476578,-99.28468660596945,5

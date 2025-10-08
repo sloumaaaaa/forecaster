@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488208598,Gel douche RB creamy MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,37633.666666666664,33939.92744,36151.457666666945,,,35834.31892000005,35889.84267333341,"[2023, 2024, 2025]","[28011.125, 58360.959, 26528.916]",37633.666666666664,58360.959,26528.916,14668.895015951597,-5.291501144634494,3

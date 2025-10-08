@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0218,CADIVEU - HAIR REMEDY REPAIR DOSE,CADIVEU,SOINS CAPILLAIRES,2024,11304.372333333333,7717.386098999999,11984.294000000227,,,9028.514170000002,10008.641650583391,"[2020, 2021, 2022, 2023]","[2484.702, 15361.599, 10649.746, 7901.771999999999]",9099.454749999999,15361.599,2484.702,4658.520459354953,218.01688894684347,4

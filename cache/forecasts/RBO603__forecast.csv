@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBO603,R.B OXY 30V 60ML 6192488202343,RENEE BLANCHE,COLORATION 60ML,2026,4818.4186666666665,6935.860694699998,0.0,,,3153.9471500000004,3727.0566278416663,"[2021, 2022, 2023, 2024, 2025]","[16464.189, 2394.312, 7991.873, 4193.178, 2270.205]",6662.751399999999,16464.189,2270.205,5318.788862511713,-86.21125522793743,5

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0487,CADIVEU ESSENTIALS -QS BALM LEAVE-IN 120ML,CADIVEU,SOINS CAPILLAIRES,2026,2606.6423333333337,3229.3059009999997,570.1190000004135,,,1899.2473700000023,2076.3286510834373,"[2022, 2023, 2024, 2025]","[4857.214, 3152.577, 3337.248, 1330.1019999999999]",3169.28525,4857.214,1330.1019999999999,1251.0184993798803,-72.61594815464174,4

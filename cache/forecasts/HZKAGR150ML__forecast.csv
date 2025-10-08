@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZKAGR150ML,H ZONE KERATINE ACTIVE GLOSS REPAIR 150ML,H. ZONE,IALO,2022,1913.13,1913.13,1913.13,,,1913.1300000000026,1913.1300000000008,[2021],[1913.13],1913.13,1913.13,1913.13,0.0,0.0,1

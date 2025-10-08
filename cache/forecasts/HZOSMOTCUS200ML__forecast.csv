@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOSMOTCUS200ML,H.Z OPTION TWIST SHAMPOO CHEVEUX BOUCLES 200ML,H. ZONE,IALO,2022,230.40249999999997,308.85349999999994,0.0,,,136.26129999999986,168.87932499999994,"[2020, 2021]","[426.53, 34.275]",230.40249999999997,426.53,34.275,196.12749999999997,-91.96422291515252,2

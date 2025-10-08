@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+OXY-30V_1L,ACTIVATEUR RB SANS AMONIAQUE 30V 1L,RENEE BLANCHE,COLORATION SANS AMMONIAQUE,2026,1310.0596666666668,902.262088,2207.5774999998976,,,1488.5142800000003,1477.103383666641,"[2022, 2023, 2024, 2025]","[6.61, 1126.464, 1185.665, 1618.05]",984.1972499999999,1618.05,6.61,595.4568041618867,24378.819969742814,4

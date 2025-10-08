@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+KP039,CADIVEU-BLONDE RECONSTRUCTOR -PROFESSIONAL KIT,CADIVEU,SOINS CAPILLAIRES,2025,1724.537,4428.290812999999,0.0,,,465.6250000000002,1654.6132032499997,"[2021, 2022, 2023, 2024]","[10366.07, 2544.3990000000003, 3222.9049999999997, -593.693]",3884.92025,10366.07,-593.693,4009.318524947062,-105.72727176258698,4

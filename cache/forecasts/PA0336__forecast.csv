@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0336,CADIVEU-BLONDE RECONSTRUCTOR-ACIDIC MASK 200ML -3-,CADIVEU,SOINS CAPILLAIRES,2023,204.576,204.576,204.576,,,204.57599999999985,204.57599999999996,[2022],[204.576],204.576,204.576,204.576,0.0,0.0,1

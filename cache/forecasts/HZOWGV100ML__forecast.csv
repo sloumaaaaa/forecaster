@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOWGV100ML,H.Z OPTION WINDY GEL VOLUME CHEVEUX FINS 100ML,H. ZONE,IALO,2022,-67.78750000000001,-80.11250000000001,24.64999999999418,,,0.0,-30.812500000001464,"[2020, 2021]","[-98.60000000000002, -36.975]",-67.78750000000001,-36.975,-98.60000000000002,30.81250000000001,-62.500000000000014,2

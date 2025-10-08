@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZKAS1000ML,H ZONE KERATINE ACTIVE SHAMPOO 1000ML,H. ZONE,IALO,2024,1852.523,2551.7392499999996,0.0,,,311.7699299999994,1179.0080449999998,"[2021, 2022, 2023]","[5026.467, 784.002, -252.9]",1852.523,5026.467,-252.9,2283.890222953371,-105.03136696212269,3

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOVSS200ML,H.Z OPTION WINDY SPRAY VOLUME CHEVEUX FINS 200ML,H. ZONE,IALO,2022,-8.245000000000005,-12.359000000000005,22.610000000000582,,,0.0,0.501500000000143,"[2020, 2021]","[-18.53000000000001, 2.039999999999999]",-8.245000000000005,2.039999999999999,-18.53000000000001,10.285000000000004,-111.0091743119266,2

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+MASK_RB_SIL_900ML,MASQUE RB SILVER 900ML-6192488204705,RENEE BLANCHE,0%SSP,2026,3789.407333333333,4282.352586399999,0.0,,,1224.6256100000003,2324.0963824333335,"[2021, 2022, 2023, 2024, 2025]","[7260.856, 7220.822, 8710.111, 3131.346, -473.235]",5169.9800000000005,8710.111,-473.235,3379.708477833022,-106.51761996106244,5

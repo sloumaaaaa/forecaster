@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+KP0036,BRASIL CACAU - ECO KERATIN KIT 110 ML ,CADIVEU,LISSAGE,2026,454.63066666666674,3203.87766397,0.0,0.0,0.0,199.37365999999994,642.9803317727777,"[2020, 2021, 2022, 2023, 2024, 2025]","[287.542, 18115.131, 16448.969, 1447.192, 329.206, -412.506]",6035.922333333335,18115.131,-412.506,7985.277961171518,-243.45939028037645,6

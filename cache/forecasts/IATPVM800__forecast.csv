@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+IATPVM800,IALO THERAPY PRO VITALITY MASQUE 800 ML,H. ZONE,IALO,2026,765.5356666666667,2371.9935939999996,0.0,,,20.991950000000077,789.6303026666666,"[2022, 2023, 2024, 2025]","[5979.493, 2039.945, 620.4780000000001, -363.816]",2069.025,5979.493,-363.816,2414.001313582596,-106.08439544958075,4

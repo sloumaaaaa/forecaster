@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+MASK_RB_COLLAG_500,MASQUE RB COLLAGENE 500 ML 6192488209380,RENEE BLANCHE,0%SSP,2026,19043.5095,21111.4793,3533.7360000014305,,,16561.945739999974,15062.66763500035,"[2024, 2025]","[24213.434, 13873.585000000001]",19043.5095,24213.434,13873.585000000001,5169.9245,-42.70294333302744,2

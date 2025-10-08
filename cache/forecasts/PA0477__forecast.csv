@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0477,CADIVEU ESSENTIALS -BB CONDITIONNER 250ML,CADIVEU,SOINS CAPILLAIRES,2026,1039.827,1550.4362789999998,0.0,,,552.0621199999993,785.5813497499997,"[2022, 2023, 2024, 2025]","[2890.3379999999997, 2013.805, 763.131, 342.54499999999996]",1502.45475,2890.3379999999997,342.54499999999996,1009.9120294937512,-88.1486179125071,4

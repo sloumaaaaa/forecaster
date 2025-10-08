@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488205894,Gel douche RB Energisant MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,19598.341333333334,18275.542609999997,14038.107333333232,,,17252.11125000003,17291.02563166665,"[2023, 2024, 2025]","[17375.699, 29603.86, 11815.465]",19598.341333333334,29603.86,11815.465,7430.202032939631,-32.00005939329405,3

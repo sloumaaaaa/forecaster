@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0077,CADIVEU-DETOX GREEN JUICE 220 ML  ,CADIVEU,SOINS CAPILLAIRES,2024,634.567,434.4562919999999,0.0,,,2.7743600000000077,267.949413,"[2020, 2021, 2022, 2023]","[499.656, 1700.682, 531.463, -328.444]",600.8392500000001,1700.682,-328.444,722.5428270356626,-165.73402500920633,4

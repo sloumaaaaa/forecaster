@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBKTPUC,KERA/THER RB CONDIT PURIFIANT 250ML-6192488205979,RENEE BLANCHE,MASS MARKET,2026,3037.4230000000002,6029.310383,0.0,,,2322.921069999997,2847.4136132499993,"[2022, 2023, 2024, 2025]","[12339.89, 4945.059, 2003.984, 2163.226]",5363.03975,12339.89,2003.984,4194.437116127525,-82.46964924322664,4

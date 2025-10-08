@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+IATMRS800,IALO THERAPY MAX REPAIR SHAMPOO 800 ML,H. ZONE,IALO,2026,2654.547,4978.405674,0.0,,,2087.6882599999976,2430.1602334999993,"[2022, 2023, 2024, 2025]","[9831.501, 3605.763, 2568.9970000000003, 1788.881]",4448.7855,9831.501,1788.881,3173.838757849042,-81.8045993180492,4

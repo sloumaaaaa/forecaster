@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0560,CADIVEU PROFES NUTRI GLOW SULFAT FREE SHAMP250ML,CADIVEU,SOINS CAPILLAIRES,2026,1687.7044999999998,1907.3090999999997,40.669999999925494,,,1424.1789799999992,1264.9656449999811,"[2024, 2025]","[2236.716, 1138.693]",1687.7044999999998,2236.716,1138.693,549.0115,-49.09085462794561,2

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZD,H ZONE CREME DECOLORANTE 150ML,H. ZONE,IALO,2022,1017.474,1162.4292,0.0,,,843.5277599999995,755.8577399999999,"[2020, 2021]","[1379.862, 655.086]",1017.474,1379.862,655.086,362.38800000000003,-52.52525252525253,2

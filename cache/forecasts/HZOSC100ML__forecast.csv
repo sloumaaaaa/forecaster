@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOSC100ML,H.Z OPTION SOFT CLOUD CREME LISSANTE 100ML,H. ZONE,IALO,2022,-5.6100000000000065,-22.74600000000001,122.9100000000326,,,14.953200000000002,27.376800000008146,"[2020, 2021]","[-48.45000000000001, 37.23]",-5.6100000000000065,37.23,-48.45000000000001,42.84,-176.84210526315786,2

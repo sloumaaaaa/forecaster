@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZTTRG,TEINT HZ TRESOR SA ROUGE,H. ZONE,TRESOR,2026,1117.7903333333331,1570.3347419999998,149.62280000001192,,,910.6638500000012,937.1029313333365,"[2021, 2022, 2023, 2024, 2025]","[2411.295, 3119.385, 1532.298, 1124.129, 696.944]",1776.8102,3119.385,696.944,878.2901604493587,-71.09669285591352,5

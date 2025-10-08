@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZKACOND250ML,H ZONE KERATINE ACTIVE CONDITIONER 250ML,H. ZONE,IALO,2024,1272.9723333333334,1759.3483899999999,0.0,,,231.27587000000005,815.8991483333333,"[2021, 2022, 2023]","[3459.169, 484.09799999999996, -124.35]",1272.9723333333334,3459.169,-124.35,1565.7041315191777,-103.59479400977519,3

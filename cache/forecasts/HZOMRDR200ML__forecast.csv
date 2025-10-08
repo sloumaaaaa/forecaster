@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOMRDR200ML,H.Z OPTION RAINBOW MASQUE CHEVEUX COLORES 200ML,H. ZONE,IALO,2022,249.05,359.27799999999996,0.0,,,116.77639999999987,181.27609999999996,"[2020, 2021]","[524.62, -26.520000000000003]",249.05,524.62,-26.520000000000003,275.57,-105.05508749189889,2

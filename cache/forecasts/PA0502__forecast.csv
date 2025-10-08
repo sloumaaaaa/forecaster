@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0502,CADIVEU ESSENTIALS -QS SHAMPOO 250 ML,CADIVEU,SOINS CAPILLAIRES,2026,6922.2339999999995,4934.244047999999,3365.364499999676,,,3868.236870000006,4772.51985449992,"[2022, 2023, 2024, 2025]","[3415.308, 13246.142, 4895.083, 2625.477]",6045.5025,13246.142,2625.477,4236.365534376755,-23.126201209378486,4

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+IATMRS500,IALO THERAPY MAX REPAIR SHAMPOO 500 ML,H. ZONE,IALO,2025,15570.856666666667,14898.61499,5581.593666667119,,,11954.513029999998,12001.394588333445,"[2022, 2023, 2024]","[16183.808, 24334.217, 6194.545]",15570.856666666667,24334.217,6194.545,7418.162713667599,-61.72381061367016,3

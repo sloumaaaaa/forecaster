@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZONETN/6.48,TEINT H ZONE S/A100ML 6.48 NEW,H. ZONE,IALO,2025,-9.498666666666658,267.0942899999999,0.0,,,0.0,64.3989058333333,"[2020, 2021, 2022, 2024]","[812.25, 64.60000000000002, -76.946, -16.15]",195.9385,812.25,-76.946,359.35259453181914,-101.98830409356725,4

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZT/RR,TEINT IALO ROSSO RAME 100ML,H. ZONE,IALO,2024,-76.33266666666667,-105.60775,85.65849999999045,,,0.0,-24.070479166669053,"[2020, 2022, 2023]","[-203.36200000000002, -19.227, -6.409]",-76.33266666666667,-6.409,-203.36200000000002,89.9756038280501,-96.84847709994985,3

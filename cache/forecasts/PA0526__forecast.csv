@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0526,BRASIL CACAU - KERATINE THERMAL RECONST DOSE 110ML,CADIVEU,LISSAGE,2026,25721.765,15780.490679999999,20526.111000000004,,,11939.885130000017,18492.062952500004,"[2022, 2023, 2024, 2025]","[4620.0, 30573.9, 47510.568, -919.1730000000002]",20446.32375,47510.568,-919.1730000000002,19634.141771015205,-119.89551948051948,4

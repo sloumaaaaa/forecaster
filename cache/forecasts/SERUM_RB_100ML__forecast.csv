@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+SERUM_RB_100ML,SERUM RB 100ML-6192488204859,RENEE BLANCHE,0%SSP,2026,38098.638333333336,29970.79631129999,35014.015999999945,,,26039.47881000001,32280.73236365832,"[2021, 2022, 2023, 2024, 2025]","[10085.076, 55636.593, 58633.242, 38816.937, 16845.736]",36003.5168,58633.242,10085.076,19719.34895278362,67.03628212618331,5

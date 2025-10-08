@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0475,CADIVEU ESSENTIALS- BEACH WAVES VEGAN 200ML,CADIVEU,SOINS CAPILLAIRES,2026,2038.7055,2510.0984999999996,0.0,,,1473.033899999998,1505.4594749999997,"[2024, 2025]","[3217.188, 860.223]",2038.7055,3217.188,860.223,1178.4825,-73.26164961450807,2

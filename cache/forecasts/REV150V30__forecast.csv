@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+REV150V30,REVELATEUR 30V 150ML,H. ZONE,TRESOR,2026,24164.077666666664,16779.715338699996,30599.901699999347,,,19699.25801,22810.738178841504,"[2021, 2022, 2023, 2024, 2025]","[750.601, 16917.554, 27095.426, 30482.111, 14914.696]",18032.077599999997,30482.111,750.601,10457.124655011254,1887.033856869362,5

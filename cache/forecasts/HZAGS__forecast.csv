@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZAGS,H ZONE AGELESS SHAMPO 250ML,H. ZONE,IALO,2021,2595.63,2595.63,2595.63,,,2595.6300000000033,2595.630000000001,[2020],[2595.63],2595.63,2595.63,2595.63,0.0,0.0,1

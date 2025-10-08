@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+KP0071,CADIVEU ESSENTIALS- KIT HOME CARE VEGAN ,CADIVEU,SOINS CAPILLAIRES,2026,7123.3525,7099.8595,7299.549999999988,,,7151.5440999999955,7168.576524999996,"[2024, 2025]","[7064.62, 7182.085]",7123.3525,7182.085,7064.62,58.73250000000007,1.662722128012549,2

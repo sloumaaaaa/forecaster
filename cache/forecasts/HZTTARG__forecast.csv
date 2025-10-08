@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZTTARG,TEINT HZ TRESOR SA ARGENT,H. ZONE,TRESOR,2026,4139.317333333333,4399.7405976,2106.506700000027,,,2960.037659999998,3401.4005727333397,"[2021, 2022, 2023, 2024, 2025]","[4929.183, 8058.917, 6543.8, 3746.7, 2127.452]",5081.210400000001,8058.917,2127.452,2075.3131791294154,-56.83966288125233,5

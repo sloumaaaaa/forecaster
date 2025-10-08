@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+KP0076,CADIVEU ESSENTIALS -QS KIT HOME,CADIVEU,SOINS CAPILLAIRES,2026,7332.1196666666665,7351.699178999999,4989.466999999946,,,5736.971229999991,6352.564268916651,"[2022, 2023, 2024, 2025]","[8310.624, 7982.661, 9737.838, 4275.86]",7576.74575,9737.838,4275.86,2016.774090197558,-48.54947113477881,4

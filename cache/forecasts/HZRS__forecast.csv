@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZRS,H ZONE REMOVER 1000ML,H. ZONE,IALO,2021,-13.39,-13.39,0.0,,,0.0,-6.695,[2020],[-13.39],-13.39,-13.39,-13.39,0.0,-0.0,1

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+61924880208512,Renée Blanche Argan Olio 125 ml ,RENEE BLANCHE,0%SSP,2026,28330.930666666667,27333.248079999994,20728.02366666682,,,25407.734199999963,25449.98415333336,"[2023, 2024, 2025]","[27483.846999999998, 37628.005, 19880.940000000002]",28330.930666666667,37628.005,19880.940000000002,7269.926275752105,-27.663183396414613,3

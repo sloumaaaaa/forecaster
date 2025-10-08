@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0476,CADIVEU ESSENTIALS -BB SHAMPO 250ML,CADIVEU,SOINS CAPILLAIRES,2026,5657.505666666667,4272.973784,2484.167000000365,,,3201.10883,3903.938820166758,"[2022, 2023, 2024, 2025]","[3461.996, 10743.608, 4027.4880000000003, 2201.4210000000003]",5108.62825,10743.608,2201.4210000000003,3319.8310493258823,-36.41179828052949,4

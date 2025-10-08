@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488208307,CIRE GLOSS WAX RB FCR 5 120ML-6192488208307,RENEE BLANCHE,MASS MARKET,2026,11510.110999999999,14467.688539999997,0.0,,,4274.075179999999,7562.968679999999,"[2023, 2024, 2025]","[25452.179, 8081.393, 996.761]",11510.110999999999,25452.179,996.761,10274.043271965327,-96.08378913255325,3

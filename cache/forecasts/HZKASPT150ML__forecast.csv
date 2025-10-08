@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZKASPT150ML,H ZONE KERATINE ACTIVE SPLIT ENDS 150ML,H. ZONE,IALO,2023,1011.4709999999999,1204.9697999999999,0.0,,,779.2724400000003,748.92831,"[2021, 2022]","[1495.2179999999998, 527.7239999999999]",1011.4709999999999,1495.2179999999998,527.7239999999999,483.74699999999996,-64.70588235294117,2

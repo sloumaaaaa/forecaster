@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZS,H ZONE ARGAN SHINE SPRAY 150ML,H. ZONE,IALO,2021,-52.4,-52.4,0.0,,,0.0,-26.2,[2020],[-52.4],-52.4,-52.4,-52.4,0.0,-0.0,1

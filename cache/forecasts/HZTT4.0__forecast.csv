@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZTT4.0,TEINT HZ TRESOR SA 4.0,H. ZONE,TRESOR,2026,22977.845666666664,20258.078934699995,25583.01900000032,,,21061.19293999999,22470.034135341743,"[2021, 2022, 2023, 2024, 2025]","[12618.025, 24788.898, 22554.284, 28350.468, 18028.785]",21268.092,28350.468,12618.025,5468.58635299131,42.88119574973104,5

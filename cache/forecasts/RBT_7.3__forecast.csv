@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBT/7.3,TEINT RENEE BLANCHE 7.3  60ML,RENEE BLANCHE,COLORATION 60ML,2026,10928.362,15470.887986099999,1445.2737000007182,,,9534.368229999995,9344.722979025177,"[2021, 2022, 2023, 2024, 2025]","[30006.412, 14281.691, 13587.223, 10665.758, 8532.105]",15414.6378,30006.412,8532.105,7582.40073729421,-71.565727351874,5

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOMGCF100ML,H.Z OPTION MONLIGHT GEL COIFFANT 100ML,H. ZONE,IALO,2022,49.30000000000001,83.81,0.0,,,7.888000000000002,35.249500000000005,"[2020, 2021]","[135.57500000000002, -36.974999999999994]",49.30000000000001,135.57500000000002,-36.974999999999994,86.275,-127.27272727272727,2

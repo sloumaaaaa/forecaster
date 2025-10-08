@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOGRASS200ML,H.Z OPTION FRESH RAIN SHAMPOO CHEVEUX GRAS 200ML,H. ZONE,IALO,2022,417.6475,594.2945,0.0,,,205.6710999999998,304.40327499999995,"[2020, 2021]","[859.265, -23.97]",417.6475,859.265,-23.97,441.61749999999995,-102.78959343159562,2

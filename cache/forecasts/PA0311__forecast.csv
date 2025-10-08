@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0311,BRASIL CACAU - ANTI FRIZZ SHAMPOO -A- 1L SULFATE FREE ,CADIVEU,SOINS CAPILLAIRES,2023,21663.30166666667,21002.94411,8824.040666665882,,,17086.755830000024,17144.260568333142,"[2020, 2021, 2022]","[23001.615, 31825.936, 10162.354]",21663.30166666667,31825.936,10162.354,8894.605413819261,-55.81895445167655,3

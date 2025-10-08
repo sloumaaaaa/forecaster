@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZOMDRYN200ML,H.Z OPTION DRYNESS MASQUE CHEVEUX SEC 200ML,H. ZONE,IALO,2022,390.15,551.174,0.0,,,196.92119999999994,284.56129999999996,"[2020, 2021]","[792.7099999999999, -12.410000000000004]",390.15,792.7099999999999,-12.410000000000004,402.56,-101.56551576238473,2

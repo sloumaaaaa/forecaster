@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+RBKTNC,KERA/THER RB CONDIT NUTRITIF 250ML-6192488205818,RENEE BLANCHE,MASS MARKET,2026,5690.798333333333,7581.643986999998,0.0,,,3716.7353199999966,4247.294410083332,"[2022, 2023, 2024, 2025]","[12553.687, 8527.048, 6015.009, 2530.338]",7406.5205,12553.687,2530.338,3655.8981415281864,-79.84386579018579,4

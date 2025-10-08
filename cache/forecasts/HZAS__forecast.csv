@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZAS,H ZONE AGELESS SERUM 50ML,H. ZONE,IALO,2022,607.59,817.6020000000001,0.0,,,355.5756000000003,445.1919000000001,"[2020, 2021]","[1132.6200000000001, 82.56]",607.59,1132.6200000000001,82.56,525.0300000000001,-92.7107061503417,2

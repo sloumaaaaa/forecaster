@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0568,CADIVEU PROF NUTRI GLOW NOUR MASK 980ML,CADIVEU,SOINS CAPILLAIRES,2026,1085.359,1199.6914,227.86599999992177,,,948.1601200000011,865.2691299999808,"[2024, 2025]","[1371.19, 799.528]",1085.359,1371.19,799.528,285.831,-41.69093998643515,2

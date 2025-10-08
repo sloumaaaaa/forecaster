@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0612,CADIVEU ESSENTIALS - HAIR REMEDY -SHAMPOO 250 ML,CADIVEU,SOINS CAPILLAIRES,2026,9792.876499999998,10827.3635,2034.2239999994636,,,8551.492099999996,7801.489024999864,"[2024, 2025]","[12379.094, 7206.659]",9792.876499999998,12379.094,7206.659,2586.2174999999997,-41.783631338448515,2

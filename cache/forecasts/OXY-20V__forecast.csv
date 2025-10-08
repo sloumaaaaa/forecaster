@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+OXY-20V,ACTIVATEUR RB SANS AMONIAQUE 20V 90ML,RENEE BLANCHE,COLORATION SANS AMMONIAQUE,2026,8930.324333333332,7581.286984999999,7251.501500000013,,,6691.340779999999,7613.613399583335,"[2022, 2023, 2024, 2025]","[6393.584, 10839.929, 11005.501, 4945.543]",8296.13925,11005.501,4945.543,2676.6452461236227,-22.64834559145544,4

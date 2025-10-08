@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZT/IG,TEINT IALO INT GIALO 100ML,H. ZONE,IALO,2024,-122.87333333333333,-136.33313,0.0,,,0.0,-64.80161583333333,"[2020, 2022, 2023]","[-185.861, -106.294, -76.465]",-122.87333333333333,-76.465,-185.861,46.173779892440635,-58.859039820080596,3

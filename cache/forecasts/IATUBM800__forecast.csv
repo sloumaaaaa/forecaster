@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+IATUBM800,IALO THERAPY UNLIMITED BLOND MASQUE 800 ML,H. ZONE,IALO,2026,-2.1483333333333263,1959.7012959999995,0.0,,,0.0,489.38824066666655,"[2022, 2023, 2024, 2025]","[5741.818, -43.72399999999996, 161.095, -123.81600000000002]",1433.8432500000001,5741.818,-123.81600000000002,2489.3795347384635,-102.15639018861273,4

@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+IATPVS800,IALO THERAPY PRO VITALITY SHAMPOO 800 ML,H. ZONE,IALO,2026,2750.8423333333335,4526.259601,0.0,,,1894.4795799999995,2292.8953785833332,"[2022, 2023, 2024, 2025]","[8553.583, 4376.606, 2375.075, 1500.846]",4201.5275,8553.583,1500.846,2720.323917084186,-82.45359868490199,4

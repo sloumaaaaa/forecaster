@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+HZPM500G,H.ZONE P.MECHE BLANC 500G,H. ZONE,IALO,2025,1646.7179999999998,3097.359492,0.0,,,1816.5729199999978,1640.1626029999995,"[2021, 2022, 2023, 2024]","[5788.608, 1681.264, 1254.954, 2003.936]",2682.1905,5788.608,1254.954,1813.0579649042527,-65.38138357270003,4

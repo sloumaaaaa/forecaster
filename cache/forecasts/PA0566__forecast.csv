@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0566,Cadiveu Professional Nutri Glow Nourishing Shampoo 980ML,CADIVEU,SOINS CAPILLAIRES,2026,661.5535,731.2420999999999,138.8890000000829,,,577.9271800000006,527.4029450000208,"[2024, 2025]","[835.775, 487.332]",661.5535,835.775,487.332,174.2215,-41.69100535431187,2

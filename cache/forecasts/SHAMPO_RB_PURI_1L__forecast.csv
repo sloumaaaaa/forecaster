@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+SHAMPO_RB_PURI_1L,SHAMPOING RB PURIFIANT 1L-6192488204873,RENEE BLANCHE,0%SSP,2026,18191.628333333334,16242.235829399997,19519.77159999986,,,17064.70602000001,17754.5854456833,"[2021, 2022, 2023, 2024, 2025]","[9282.282, 23728.708, 22804.304, 14572.568, 17198.013]",17517.175,23728.708,9282.282,5350.194627504162,85.27785516535698,5

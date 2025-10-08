@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+TRBSAV,TEINT RB SANS AMONIAQUE 60ML VIOLET,RENEE BLANCHE,COLORATION SANS AMMONIAQUE,2026,452.306,775.3307580000001,0.0,,,228.20142000000024,363.9595445000001,"[2022, 2023, 2024, 2025]","[1531.872, 624.506, 684.748, 47.664]",722.1975000000001,1531.872,47.664,529.5078688733058,-96.8885128783606,4

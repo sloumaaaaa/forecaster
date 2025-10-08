@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0312,BRASIL CACAU - EXTREME REPAIR- SHAMP 300ML SULFATE FRE,CADIVEU,SOINS CAPILLAIRES,2026,7297.476333333333,5725.099052,6290.183999999979,,,5646.175470000011,6239.733713833331,"[2022, 2023, 2024, 2025]","[3901.478, 10238.314, 6826.384, 4827.731]",6448.47675,10238.314,3901.478,2430.0051280673647,23.74107966263041,4

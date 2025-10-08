@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0109,CADIVEU -HAIR REMDEDY SHAMPO -980ML,CADIVEU,SOINS CAPILLAIRES,2026,314.3326666666666,200.37673399999997,0.0,,,89.50590999999997,151.05382766666665,"[2022, 2023, 2024, 2025]","[166.93099999999998, 937.833, -41.205, 46.37]",277.48224999999996,937.833,-41.205,388.34878888531057,-72.22205581947031,4

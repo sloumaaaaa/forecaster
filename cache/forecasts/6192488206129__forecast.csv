@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488206129,KIT COLORATION RB SO COLOR 7.1,RENEE BLANCHE,MASS MARKET,2026,70166.14899999999,44656.69209499999,95704.8030000031,,,61480.66522999996,68002.07733125077,"[2022, 2023, 2024, 2025]","[564.5360000000001, 71317.401, 86387.95, 52793.096]",52765.745749999995,86387.95,564.5360000000001,32402.09707157563,9251.590686864964,4

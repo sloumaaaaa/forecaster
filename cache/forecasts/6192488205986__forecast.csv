@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488205986,Gel douche RB relaxant MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,23029.532000000003,22123.383499999996,15426.77199999988,,,20138.545899999972,20179.558349999963,"[2023, 2024, 2025]","[22429.802, 31831.752, 14827.042]",23029.532000000003,31831.752,14827.042,6955.084356099979,-33.89579631599066,3

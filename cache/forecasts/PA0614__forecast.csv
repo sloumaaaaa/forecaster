@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0614,CADIVEU ESSENTIALS-HAIR REMEDY MASK 200ML,CADIVEU,SOINS CAPILLAIRES,2026,6090.2935,6633.6365,2015.2209999999031,,,5438.2818999999945,5044.3582249999745,"[2024, 2025]","[7448.651, 4731.936]",6090.2935,7448.651,4731.936,1358.3575,-36.47257738347521,2

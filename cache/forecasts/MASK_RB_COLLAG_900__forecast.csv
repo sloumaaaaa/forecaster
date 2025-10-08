@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+MASK_RB_COLLAG_900,MASQUE RB COLLAGENE 900 ML 6192488209373,RENEE BLANCHE,0%SSP,2026,5779.012000000001,6620.4076,0.0,,,4769.337279999992,4292.189219999998,"[2024, 2025]","[7882.501, 3675.523]",5779.012000000001,7882.501,3675.523,2103.489,-53.37110645466458,2

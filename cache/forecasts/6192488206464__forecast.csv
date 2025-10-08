@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488206464,Gel douche RB Exotique MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,26930.97366666667,24999.96888,21215.611666667275,,,24318.557599999986,24366.277953333483,"[2023, 2024, 2025]","[23102.265, 40303.753, 17386.903000000002]",26930.97366666667,40303.753,17386.903000000002,9739.601669516787,-24.739401093355987,3

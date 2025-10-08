@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+6192488208925,TEINT IALO 6.11 100ML,H. ZONE,IALO,2026,16014.70133333333,13535.747109999998,26923.366333333775,,,18834.973789999978,18827.19714166677,"[2023, 2024, 2025]","[6661.366, 23812.707, 17570.031]",16014.70133333333,23812.707,6661.366,7087.84933547454,163.7601807196902,3

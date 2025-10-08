@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0507,CADIVEU ESSENTIALS -QS QUARTZ MIST 200ML,CADIVEU,SOINS CAPILLAIRES,2026,2848.1566666666663,3404.8769179999995,0.0,,,1706.194599999998,1989.807046166666,"[2022, 2023, 2024, 2025]","[5304.112999999999, 4989.957, 2381.238, 1173.275]",3462.1457499999997,5304.112999999999,1173.275,1741.719081820799,-77.87990187991848,4

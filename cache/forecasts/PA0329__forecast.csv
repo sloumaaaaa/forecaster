@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
+PA0329,CADIVEU-BLONDE RECON CLARIFYING SHAMP1L -1-,CADIVEU,SOINS CAPILLAIRES,2025,390.937,290.9558,1140.7960000000894,,,510.91443999999944,583.4008100000223,"[2023, 2024]","[140.984, 640.89]",390.937,640.89,140.984,249.95299999999997,354.58349883674737,2
