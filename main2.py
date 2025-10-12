@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from pathlib import Path
 import json
+import ast
 import sys
 from datetime import datetime
 
@@ -87,17 +88,58 @@ def load_data(uploaded_file, frequency, date_col):
         st.error(f"Error loading data: {str(e)}")
         return None
 
+def parse_json_field(value):
+    """Parse JSON string or Python string representation, or return the value as-is if it's already a list/dict"""
+    if value is None or pd.isna(value):
+        return None
+    
+    # If it's already a list or dict, return it
+    if isinstance(value, (list, dict)):
+        return value
+    
+    # If it's a string, try to parse it
+    if isinstance(value, str):
+        # First try JSON (with double quotes)
+        try:
+            return json.loads(value)
+        except:
+            pass
+        
+        # Then try Python literal eval (with single quotes)
+        try:
+            return ast.literal_eval(value)
+        except:
+            pass
+    
+    return None
+
 def parse_metrics(metrics_str):
     """Parse metrics from JSON string"""
-    if pd.isna(metrics_str) or metrics_str is None:
-        return None
-    try:
-        return json.loads(metrics_str)
-    except:
-        return None
+    return parse_json_field(metrics_str)
 
 def create_forecast_chart(historical_periods, historical_values, forecast_value, next_period, frequency):
     """Create an interactive forecast visualization"""
+    
+    # Parse historical_values if it's a JSON string
+    if isinstance(historical_values, str):
+        historical_values = parse_json_field(historical_values)
+    
+    # Parse historical_periods if it's a JSON string
+    if isinstance(historical_periods, str):
+        historical_periods = parse_json_field(historical_periods)
+    
+    # Ensure we have valid data
+    if historical_values is None or historical_periods is None:
+        st.error(f"Invalid historical data format. Periods: {type(historical_periods)}, Values: {type(historical_values)}")
+        st.write("**Unable to parse historical data. Please check your forecaster output format.**")
+        return None
+    
+    # Convert to lists if they're numpy arrays
+    if isinstance(historical_values, np.ndarray):
+        historical_values = historical_values.tolist()
+    if isinstance(historical_periods, np.ndarray):
+        historical_periods = historical_periods.tolist()
+    
     fig = go.Figure()
     
     # Historical data
@@ -112,7 +154,7 @@ def create_forecast_chart(historical_periods, historical_values, forecast_value,
     
     # Forecast point
     all_periods = [str(p) for p in historical_periods] + [str(next_period)]
-    all_values = historical_values + [forecast_value]
+    all_values = list(historical_values) + [forecast_value]
     
     fig.add_trace(go.Scatter(
         x=[str(historical_periods[-1]), str(next_period)],
@@ -256,6 +298,14 @@ with st.sidebar:
     
     # Cache management
     with st.expander("🗑️ Cache Management"):
+        st.write(f"**Current Frequency:** {frequency}")
+        cache_path = Path("cache") / frequency
+        if cache_path.exists():
+            cache_files = list(cache_path.glob("*.json"))
+            st.write(f"**Cache files:** {len(cache_files)}")
+        else:
+            st.write("**Cache directory not found**")
+        
         if st.button("Clear All Caches"):
             if st.session_state.forecaster:
                 st.session_state.forecaster.clear_all_caches()
@@ -471,7 +521,8 @@ if st.session_state.data_loaded and st.session_state.forecaster:
                 result['next_period'],
                 frequency
             )
-            st.plotly_chart(chart, use_container_width=True)
+            if chart:
+                st.plotly_chart(chart, use_container_width=True)
             
             # Method comparison
             st.markdown("### 🔄 Method Comparison")

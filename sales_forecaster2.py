@@ -399,6 +399,8 @@ class SalesForecaster:
         """
         Forecast for a single article with detailed metrics for each method.
         """
+        import json
+        
         if include_methods is None:
             include_methods = ['SMA', 'ExpSmoothing', 'LinearReg', 'ARIMA', 'PROPHET', 'XGBOOST']
 
@@ -474,8 +476,9 @@ class SalesForecaster:
             'frequency': self.frequency,
             'next_period': next_period,
             'avg_forecast': float(avg_forecast),
-            'historical_periods': [str(p) for p in periods],
-            'historical_values': values,
+            # FIXED: Convert to lists and JSON serialize for proper CSV storage/loading
+            'historical_periods': json.dumps([str(p) for p in periods]),
+            'historical_values': json.dumps([float(v) for v in values]),
             'avg_sales': avg_sales,
             'max_sales': max_sales,
             'min_sales': min_sales,
@@ -489,7 +492,6 @@ class SalesForecaster:
             result[key] = float(val) if val is not None else np.nan
         
         # Add metrics as JSON strings (for CSV storage)
-        import json
         for key, metrics in metrics_dict.items():
             if metrics:
                 result[key] = json.dumps(metrics)
