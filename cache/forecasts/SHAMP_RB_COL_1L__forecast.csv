@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHAMP_RB_COL_1L,SHAMPOING RB COLLAGENE 1L-6192488209342,RENEE BLANCHE,0%SSP,2026,11830.8915,13417.162499999999,0.0,,,9927.366300000012,8793.855075000003,"[2024, 2025]","[15796.569, 7865.214]",11830.8915,15796.569,7865.214,3965.6775,-50.20935242330153,2

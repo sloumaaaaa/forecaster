@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATULM500,IALO THERAPY UNLIMITED BLOND MASQUE 500 ML,H. ZONE,IALO,2026,3000.743,4122.333512,0.0,,,705.3493000000003,1957.1064529999999,"[2022, 2023, 2024, 2025]","[8032.697, 8156.513, 951.153, -105.437]",4258.731499999999,8156.513,-105.437,3854.2690113362287,-101.31259774892543,4

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBGDS250,RB GEL DOUCHE SENSUEL 250ML-6192488205849,RENEE BLANCHE,MASS MARKET,2026,13813.282999999998,12167.462762,11581.69750000001,,,11058.302629999993,12155.186473,"[2022, 2023, 2024, 2025]","[10770.749, 16527.445, 15890.663999999999, 9021.74]",13052.6495,16527.445,9021.74,3224.276328035525,-16.238508575401767,4

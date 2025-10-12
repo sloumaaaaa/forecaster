@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0652,BRASIL CACAU - BOTOX VEGAN 110 ML,CADIVEU,LISSAGE,2026,1561.5696666666665,1232.22624,558.3446666667005,,,1106.3847600000015,1114.6313333333421,"[2023, 2024, 2025]","[915.48, 3856.974, -87.745]",1561.5696666666665,3856.974,-87.745,1673.9724988323105,-109.58458950495915,3

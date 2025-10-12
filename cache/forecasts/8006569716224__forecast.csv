@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-8006569716224,TEINT IALO CAPPUCCINO 100ML,H. ZONE,IALO,2022,-14.422500000000003,-11.217100000000002,0.0,,,0.0,-6.409900000000001,"[2020, 2021]","[-6.409000000000006, -22.436]",-14.422500000000003,-6.409000000000006,-22.436,8.013499999999997,250.070213761897,2

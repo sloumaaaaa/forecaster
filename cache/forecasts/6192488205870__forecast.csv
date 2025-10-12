@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488205870,Gel douche RB tropical  MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,34606.992000000006,31256.40817,26533.699000000022,,,30697.932050000018,30773.757805000012,"[2023, 2024, 2025]","[27515.134000000002, 56864.001000000004, 19441.841]",34606.992000000006,56864.001000000004,19441.841,16079.497342589684,-29.341281783326956,3

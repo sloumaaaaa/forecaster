@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0479,CADIVEU ESSENTIALS -BB LEAVE-IN FRIZZ KILLER 120ML,CADIVEU,SOINS CAPILLAIRES,2026,1867.1836666666666,3333.493056,0.0,,,673.616849999999,1468.5733931666664,"[2022, 2023, 2024, 2025]","[6832.869000000001, 2366.327, 3651.0919999999996, -415.868]",3108.605,6832.869000000001,-415.868,2604.6746938858796,-106.08628674133809,4

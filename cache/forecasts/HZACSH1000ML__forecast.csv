@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZACSH1000ML,H ZONE ARGAN ACTIVE SHAMPOO 1000ML,H. ZONE,IALO,2024,1658.6299999999999,2154.93306,0.0,,,333.2674199999996,1036.7076199999997,"[2021, 2022, 2023]","[4078.0769999999998, 1251.873, -354.06]",1658.6299999999999,4078.0769999999998,-354.06,1832.1295513652958,-108.68203322301173,3

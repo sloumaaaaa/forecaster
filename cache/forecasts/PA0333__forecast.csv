@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0333,CADIVEU-BLONDE RECONSTRUCTOR-BLONDE LOCK 200ML -4-,CADIVEU,SOINS CAPILLAIRES,2025,483.69233333333324,526.53537,0.0,,,327.15497000000033,334.3456683333334,"[2022, 2023, 2024]","[722.832, 512.509, 215.736]",483.69233333333324,722.832,215.736,208.02145484273706,-70.15406069460124,3

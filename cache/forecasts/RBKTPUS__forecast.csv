@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTPUS,KERA/THER RB SHAMP PURIFIANT 250ML-6192488205801,RENEE BLANCHE,MASS MARKET,2026,4154.363333333334,6750.270874999998,0.0,,,3747.3081200000033,3662.985582083334,"[2022, 2023, 2024, 2025]","[12137.318, 6057.963, 2498.754, 3906.373]",6150.102,12137.318,2498.754,3681.776305960276,-67.81518783639021,4

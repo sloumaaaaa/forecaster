@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-MASK_RB_BOTOX_500_,MASQUE RB BOTOX 500ML 6192488209359,RENEE BLANCHE,0%SSP,2026,19717.449,22110.553399999997,1769.1660000011325,,,16845.723720000013,15110.723030000285,"[2024, 2025]","[25700.21, 13734.688]",19717.449,25700.21,13734.688,5982.7609999999995,-46.55807092626869,2

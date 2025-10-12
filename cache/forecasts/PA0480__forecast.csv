@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0480,CADIVEU ESSENTIALS -BB GRADUAL SMOOTHING 200ML,CADIVEU,SOINS CAPILLAIRES,2026,2913.9093333333335,3499.3104599999992,0.0,,,1423.4846500000017,1959.1761108333335,"[2022, 2023, 2024, 2025]","[5594.193, 4611.693, 3738.079, 391.956]",3583.98025,5594.193,391.956,1956.394262036333,-92.99352024501121,4

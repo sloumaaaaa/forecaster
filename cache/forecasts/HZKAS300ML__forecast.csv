@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZKAS300ML,H ZONE KERATINE ACTIVE SHAMPOO 300ML,H. ZONE,IALO,2023,3376.5435,4716.054899999999,0.0,,,1769.129820000002,2465.432055,"[2021, 2022]","[6725.322, 27.765]",3376.5435,6725.322,27.765,3348.7785000000003,-99.58715731380595,2

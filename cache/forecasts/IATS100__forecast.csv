@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATS100,IALO THERAPY SERUM 100ML,H. ZONE,IALO,2026,7401.490000000001,6607.340429,2215.770499999635,,,4151.997809999999,5094.149684749909,"[2022, 2023, 2024, 2025]","[7385.648, 12814.065, 6963.621, 2426.784]",7397.5295,12814.065,2426.784,3682.240669923172,-67.14189465839692,4

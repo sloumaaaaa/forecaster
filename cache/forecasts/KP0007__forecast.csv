@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-KP0007,CADIVEU-DETOX KIT HOME CARE,CADIVEU,SOINS CAPILLAIRES,2025,271.1046666666667,930.3132677999995,0.0,,,0.0,300.3544836166665,"[2020, 2021, 2022, 2023, 2024]","[1333.917, 5689.239, 1603.9990000000003, -289.275, -501.41]",1567.2939999999999,5689.239,-501.41,2225.8763377850078,-137.58929528598858,5

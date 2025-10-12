@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTPC,KERA/THER RB CONDIT PROTECTEUR 250ML-6192488205832,RENEE BLANCHE,MASS MARKET,2026,2948.1356666666666,5956.6924789999985,0.0,,,2217.8295800000037,2780.664431416667,"[2022, 2023, 2024, 2025]","[12345.104, 5218.031, 1473.7949999999998, 2152.581]",5297.37775,12345.104,1473.7949999999998,4306.572675764997,-82.5632817674116,4

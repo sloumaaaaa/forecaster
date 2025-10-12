@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZOMSONTCU200ML,H.Z OPTION TWIST MASQUE CHEVEUX BOUCLES 200ML,H. ZONE,IALO,2022,318.5575,417.8805,0.0,,,199.36990000000003,233.951975,"[2020, 2021]","[566.865, 70.25]",318.5575,566.865,70.25,248.3075,-87.60727862895045,2

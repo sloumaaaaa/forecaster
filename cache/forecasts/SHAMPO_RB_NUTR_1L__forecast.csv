@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHAMPO_RB_NUTR_1L,SHAMPOING RB NUTRITIF 1L-6192488204934,RENEE BLANCHE,0%SSP,2026,28950.812,24083.231323499997,31735.397299999837,,,25045.668189999982,27453.777203374953,"[2021, 2022, 2023, 2024, 2025]","[10744.962, 34101.547, 35189.243, 29749.554, 21913.639]",26339.789,35189.243,10744.962,9088.164321647513,103.94338295472801,5

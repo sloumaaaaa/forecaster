@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0313,BRASIL CACAU - EXTREME REPAIR- SHAMPOO 1L SULFATE FREE ,CADIVEU,SOINS CAPILLAIRES,2026,241.15266666666662,202.16797999999994,61.71766666666372,,,166.7384199999999,167.94418333333255,"[2023, 2024, 2025]","[179.435, 544.0229999999999, 0.0]",241.15266666666662,544.0229999999999,0.0,226.3434836943376,-100.0,3

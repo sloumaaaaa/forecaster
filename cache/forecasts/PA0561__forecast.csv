@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0561,CADIVEU PROFES NUTRI GLOW NOUR CONDITIONNER 250ML,CADIVEU,SOINS CAPILLAIRES,2026,569.3435,504.2757,1057.3519999999553,,,647.4248599999994,694.5990149999886,"[2024, 2025]","[406.674, 732.013]",569.3435,732.013,406.674,162.66950000000003,79.999950820559,2

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTFC,KERA/THER RB CONDIT FORTIFIANT 250ML-6192488205825,RENEE BLANCHE,MASS MARKET,2026,5206.1196666666665,7432.829388,0.0,,,4179.362329999998,4204.577846166667,"[2022, 2023, 2024, 2025]","[12491.112, 7560.336, 4226.648, 3831.375]",7027.36775,12491.112,3831.375,3471.1293969329613,-69.3271904054659,4

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-REV1L40V,REVELATEUR 40V 1000ML,H. ZONE,TRESOR,2026,3014.6163333333334,2443.8088834999994,3694.229500000016,,,2932.9066399999983,3021.3903392083366,"[2021, 2022, 2023, 2024, 2025]","[634.8919999999999, 3435.167, 3990.77, 1829.7140000000002, 3223.3650000000002]",2622.7816,3990.77,634.8919999999999,1222.5157668497532,407.7028849001091,5

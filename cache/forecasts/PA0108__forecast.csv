@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0108,CADIVEU-HAIR REMEDY-SHAMPO 250 ML  ,CADIVEU,SOINS CAPILLAIRES,2024,13777.147333333332,11569.854818,17790.859500000253,,,14249.828729999992,14346.922595333395,"[2020, 2021, 2022, 2023]","[7040.24, 13307.524, 13425.877, 14598.041]",12092.9205,14598.041,7040.24,2960.4578888959472,107.35146813176823,4

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBT/22,TEINT RENEE BLANCHE 22 INT BLU 60ML,RENEE BLANCHE,COLORATION 60ML,2026,4558.995666666667,7264.225505099998,0.0,,,3613.518160000001,3859.1848329416666,"[2021, 2022, 2023, 2024, 2025]","[15546.144, 7786.393, 6397.003, 4377.535, 2902.449]",7401.904799999999,15546.144,2902.449,4401.7770532752975,-81.33010346488491,5

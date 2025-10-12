@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0569,Cadiveu Professional Nutri Glow Nourishing Wax 500ML,CADIVEU,SOINS CAPILLAIRES,2026,780.2545,863.9194999999999,152.76700000010896,,,679.8564999999992,619.199375000027,"[2024, 2025]","[989.4169999999999, 571.092]",780.2545,989.4169999999999,571.092,209.16249999999997,-42.279948697060995,2

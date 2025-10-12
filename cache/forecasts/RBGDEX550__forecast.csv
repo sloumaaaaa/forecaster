@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBGDEX550,RB GEL DOUCHE EXOTIQUE 550ML-6192488206464,RENEE BLANCHE,MASS MARKET,2025,13315.625666666667,13579.518829999997,0.0,,,7019.83047,8478.743741666665,"[2022, 2023, 2024]","[18621.233, 21584.206, -258.562]",13315.625666666667,21584.206,-258.562,9674.321004842193,-101.3885331868196,3

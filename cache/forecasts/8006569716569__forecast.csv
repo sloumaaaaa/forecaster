@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-8006569716569,H.ZONE P.MECHE 400G,H. ZONE,IALO,2022,12099.5515,16931.858099999998,0.0,,,6300.78358,8833.048295,"[2020, 2021]","[24180.318, 18.785]",12099.5515,24180.318,18.785,12080.7665,-99.92231284964905,2

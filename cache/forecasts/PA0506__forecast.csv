@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0506,CADIVEU ESSENTIALS -QS CREAM HAIR PROTEIN 200 ML,CADIVEU,SOINS CAPILLAIRES,2026,2143.6543333333334,3206.865598,0.0,,,1419.0947699999974,1692.4036753333326,"[2022, 2023, 2024, 2025]","[5765.08, 3437.214, 1932.8, 1060.949]",3049.01075,5765.08,1060.949,1783.679476134568,-81.59697697169857,4

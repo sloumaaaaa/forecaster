@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0567,CADIVEU PROF NUTRI GLOW NOURISHING CONDIT 980ML,CADIVEU,SOINS CAPILLAIRES,2026,628.98,711.5292000000001,9.861000000033528,,,529.9209600000012,470.0727900000087,"[2024, 2025]","[835.3530000000001, 422.60699999999997]",628.98,835.3530000000001,422.60699999999997,206.37300000000005,-49.40977048026404,2

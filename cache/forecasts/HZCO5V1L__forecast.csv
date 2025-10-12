@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZCO5V1L,H.Z OXY 5V 1L,H. ZONE,IALO,2025,57.334,61.93947,59.18900000000008,,,59.579830000000086,59.510575000000046,"[2022, 2023, 2024]","[69.33, 31.487, 71.185]",57.334,71.185,31.487,18.292271829017483,2.675609404298289,3

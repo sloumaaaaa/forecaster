@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZOSGB100ML,H.Z OPTION SUNSET GEL BRILLANT EFFET DORE 100ML,H. ZONE,IALO,2022,-84.426,-93.54639999999999,0.0,,,0.0,-44.4931,"[2020, 2021]","[-107.227, -61.625]",-84.426,-61.625,-107.227,22.801000000000002,-42.528467643410714,2

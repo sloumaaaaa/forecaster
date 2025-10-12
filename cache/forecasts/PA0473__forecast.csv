@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0473,CADIVEU ESSENTIALS- MASK HAIR VEGAN 200ML,CADIVEU,SOINS CAPILLAIRES,2026,2887.8845,3103.1879,1273.1090000001714,,,2629.520419999998,2473.4254550000423,"[2024, 2025]","[3426.143, 2349.626]",2887.8845,3426.143,2349.626,538.2584999999999,-31.42066749694919,2

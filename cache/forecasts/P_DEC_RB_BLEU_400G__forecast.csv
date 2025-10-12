@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-P_DEC_RB_BLEU_400G,RB P.MECHE BLEU 400G,RENEE BLANCHE,COLORATION 60ML,2026,6201.073333333334,4643.5363724,3804.307999999961,,,2676.631660000001,4331.387341433324,"[2021, 2022, 2023, 2024, 2025]","[2263.061, 9310.597, 12360.895, 6084.823, 157.502]",6035.3756,12360.895,157.502,4461.422899549228,-93.0403113305386,5

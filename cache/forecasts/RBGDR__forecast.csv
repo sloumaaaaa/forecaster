@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBGDR,RB GEL DOUCHE RELAXANT 250ML-6192488205900,RENEE BLANCHE,MASS MARKET,2026,11998.706666666667,10912.267871999997,8760.871500000358,,,9721.21253999999,10348.264644666753,"[2022, 2023, 2024, 2025]","[10540.280999999999, 16734.627, 10460.962, 8800.531]",11634.10025,16734.627,8800.531,3025.606622121205,-16.50572693460448,4

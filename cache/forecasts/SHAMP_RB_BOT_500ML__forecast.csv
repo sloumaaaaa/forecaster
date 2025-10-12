@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHAMP_RB_BOT_500ML,SHAMPOING RB BOTOX 500ML-6192488209311,RENEE BLANCHE,0%SSP,2026,33433.4365,36038.5455,13895.118999999017,,,30307.30569999998,28418.60167499975,"[2024, 2025]","[39946.209, 26920.664]",33433.4365,39946.209,26920.664,6512.772500000001,-32.607712536626444,2

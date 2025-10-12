@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SERUM_RB_500ML,SERUM RB 500ML ,RENEE BLANCHE,0%SSP,2023,10241.246000000001,9779.8708,13701.55999999959,,,10794.896239999998,11129.393259999899,"[2021, 2022]","[9087.808, 11394.684000000001]",10241.246000000001,11394.684000000001,9087.808,1153.438,25.384295090741354,2

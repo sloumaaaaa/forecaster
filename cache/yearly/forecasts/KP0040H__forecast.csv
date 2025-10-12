@@ -1,0 +1,2 @@
+ref_article,designation,marque,famille,frequency,next_period,avg_forecast,historical_periods,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points,sma_forecast,es_forecast,xgb_forecast,sma_metrics,es_metrics,xgb_metrics
+KP0040H,BRASIL CACAU - RECONSTRUCTION HOMME KIT 110 ML ,CADIVEU,LISSAGE,yearly,2023,240.02999999999994,['2022'],[240.03],240.03,240.03,240.03,0.0,0.0,1,240.03,240.03,240.02999999999983,,,"{""MAE"": 1.7053025658242404e-13, ""MSE"": 2.908056841006738e-26, ""RMSE"": 1.7053025658242404e-13, ""MAPE"": 7.104539290189728e-14, ""R2"": NaN}"

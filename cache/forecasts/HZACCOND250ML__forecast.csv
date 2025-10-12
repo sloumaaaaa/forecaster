@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZACCOND250ML,H ZONE ARGAN ACTIVE CONDITIONER 250ML,H. ZONE,IALO,2024,1346.7990000000002,1802.54417,0.0,,,302.05332999999956,862.849125,"[2021, 2022, 2023]","[3444.665, 711.7919999999999, -116.06]",1346.7990000000002,3444.665,-116.06,1521.4282870476238,-103.36926812912142,3

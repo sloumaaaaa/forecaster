@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SH_RB_ANTIC_1L,SHAMPOING RB ANTICHUTE 500ML-6192488204965,RENEE BLANCHE,0%SSP,2026,91621.95833333333,65582.17808209998,127789.65939999372,,,85687.14694999991,92670.23569135673,"[2021, 2022, 2023, 2024, 2025]","[8481.713, 41080.202, 82944.595, 116118.594, 75802.686]",64885.558,116118.594,8481.713,36927.56472876003,793.7190635901027,5

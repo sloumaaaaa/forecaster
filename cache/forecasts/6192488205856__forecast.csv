@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488205856,Gel douche RB sensuel MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,39644.306333333334,35095.546109999996,35210.62833333295,,,36545.832509999986,36624.078321666566,"[2023, 2024, 2025]","[28428.822, 66508.953, 23995.144]",39644.306333333334,66508.953,23995.144,19082.21345556387,-15.595714799579103,3

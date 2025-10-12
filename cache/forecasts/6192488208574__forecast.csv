@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488208574,Gel douche RB sweet MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,52819.56966666667,48282.692489999994,46291.77666666731,,,49016.66773000001,49102.6766383335,"[2023, 2024, 2025]","[42145.581, 80695.34, 35617.788]",52819.56966666667,80695.34,35617.788,19890.482634001488,-15.488677211496974,3

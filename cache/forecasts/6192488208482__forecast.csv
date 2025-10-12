@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488208482,Cristalli Semi Di Lino Olio 125 ml ,RENEE BLANCHE,0%SSP,2026,19637.061666666665,20139.345009999997,7505.173666667193,,,15708.371010000004,15747.487838333465,"[2023, 2024, 2025]","[23945.584, 23151.905, 11813.696]",19637.061666666665,23945.584,11813.696,5541.435996475061,-50.66440643084754,3

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0185-,BRASIL CACAU-EXTREME REPAIR-SHAMPO 1L,CADIVEU,SOINS CAPILLAIRES,2026,204.923,316.42270759999985,0.0,,,138.1673200000001,164.8782569,"[2021, 2022, 2023, 2024, 2025]","[315.326, 1271.0, 433.695, 90.537, 90.537]",440.21899999999994,1271.0,90.537,435.98002161429366,-71.28781007592143,5

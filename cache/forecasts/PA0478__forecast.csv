@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0478,CADIVEU ESSENTIALS -BB MASK 200ML,CADIVEU,SOINS CAPILLAIRES,2026,4431.5126666666665,4038.1250179999993,1087.6620000000112,,,2552.520619999998,3027.4550761666687,"[2022, 2023, 2024, 2025]","[4678.892, 8186.706, 3361.448, 1746.384]",4493.3575,8186.706,1746.384,2371.8309762204285,-62.675265853539685,4

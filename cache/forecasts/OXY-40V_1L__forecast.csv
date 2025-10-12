@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-OXY-40V_1L,ACTIVATEUR RB SANS AMONIAQUE 40V 1L,RENEE BLANCHE,COLORATION SANS AMMONIAQUE,2026,506.2963333333334,544.3704399999999,498.77433333333374,,,517.1284399999998,516.6423866666668,"[2023, 2024, 2025]","[611.029, 304.353, 603.5070000000001]",506.2963333333334,611.029,304.353,142.82851612880236,-1.2310381340329075,3

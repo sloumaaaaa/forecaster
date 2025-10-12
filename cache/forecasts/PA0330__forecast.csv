@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0330,CADIVEU-BLONDE RECONSTRUCTOR -UNBROKEN BLONDE 1L,CADIVEU,SOINS CAPILLAIRES,2026,426.3153333333333,704.7823179999998,42.955742857186124,,,355.9735899999998,382.50674604762975,"[2021, 2023, 2024, 2025]","[1256.32, 237.444, 816.559, 224.943]",633.8165,1256.32,224.943,431.6231361317996,-82.09508723892002,4

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-P_DEC_HZ_BLEU_500G,H ZONE P.MECHE BLEU 500G,H. ZONE,IALO,2026,7290.826666666667,5882.202767999997,3974.900799999945,,,3246.302719999999,5098.558238666652,"[2021, 2022, 2023, 2024, 2025]","[2840.496, 14678.256, 14954.848, 6487.168, 430.464]",7878.246399999999,14954.848,430.464,5985.013143688345,-84.84546360917248,5

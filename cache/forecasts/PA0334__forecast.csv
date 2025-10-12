@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0334,CADIVEU-BLOND KEEPER SHAM 250 ML -1-,CADIVEU,SOINS CAPILLAIRES,2023,734.705,734.705,734.705,,,734.7050000000013,734.7050000000004,[2022],[734.705],734.705,734.705,734.705,0.0,0.0,1

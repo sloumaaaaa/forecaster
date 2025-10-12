@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-MASK_RB_BOTOX_900,MASQUE RB BOTOX 900ML 6192488209366,RENEE BLANCHE,0%SSP,2026,5190.0285,6296.6951,0.0,,,3862.0285800000047,3837.1880450000017,"[2024, 2025]","[7956.695, 2423.362]",5190.0285,7956.695,2423.362,2766.6665,-69.54310803669111,2

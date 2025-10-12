@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZACSHOIL100ML,H ZONE ARGAN ACTIVE SHINE OIL CRISTALLI 100ML,H. ZONE,IALO,2023,2558.5015,2455.2908999999995,3332.5810000000056,,,2682.354219999998,2757.1819050000004,"[2021, 2022]","[2300.475, 2816.528]",2558.5015,2816.528,2300.475,258.02649999999994,22.432454167074187,2

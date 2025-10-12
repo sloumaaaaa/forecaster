@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0472,CADIVEU ESSENTIALS- CONDITIONNER VEGAN 250ML,CADIVEU,SOINS CAPILLAIRES,2026,1364.0375,1089.4008999999999,3423.811999999918,,,1693.6014199999977,1892.712954999979,"[2024, 2025]","[677.446, 2050.629]",1364.0375,2050.629,677.446,686.5915,202.69999380024385,2

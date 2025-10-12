@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488208338,CIRE POMMADE RB 50ML-6192488208338,RENEE BLANCHE,MASS MARKET,2026,14734.897333333332,17584.29362,0.0,,,6243.666620000003,9640.714393333334,"[2023, 2024, 2025]","[29259.557, 13738.109, 1207.026]",14734.897333333332,29259.557,1207.026,11474.066820809216,-95.87476324402313,3

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATCRM500,IALO THERAPY COLOR RESIST MASQUE 500 ML,H. ZONE,IALO,2026,4084.186333333333,5539.456593,0.0,,,1251.0547300000026,2718.6744140833343,"[2022, 2023, 2024, 2025]","[10468.077, 10121.966, 1980.008, 150.585]",5680.159,10468.077,150.585,4661.57468684805,-98.56148364212454,4

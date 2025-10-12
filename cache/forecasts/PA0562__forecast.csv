@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0562,CADIVEU PROFES NUTRI GLOW NOURI MASK 200ML,CADIVEU,SOINS CAPILLAIRES,2026,1653.8145,1886.9750999999997,0.0,,,1374.0217799999998,1228.7028449999998,"[2024, 2025]","[2236.716, 1070.913]",1653.8145,2236.716,1070.913,582.9014999999999,-52.121190173450714,2

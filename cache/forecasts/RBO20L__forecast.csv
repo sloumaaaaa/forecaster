@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBO20L,R.B OXY 20V 1L,RENEE BLANCHE,COLORATION 60ML,2026,24343.370333333336,22218.011403299995,25755.91270000022,,,22467.646079999973,23696.235129158384,"[2021, 2022, 2023, 2024, 2025]","[18352.461, 21466.378, 23993.632999999998, 29281.247, 19755.231]",22569.79,29281.247,18352.461,3846.97564983102,7.643498057290521,5

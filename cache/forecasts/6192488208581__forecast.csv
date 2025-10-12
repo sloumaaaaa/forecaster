@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488208581,Gel douche RB delicious MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,27246.31133333333,24851.069299999996,21432.358333333395,,,24437.42382000001,24491.79069666668,"[2023, 2024, 2025]","[22186.889, 43179.109, 16372.936000000002]",27246.31133333333,43179.109,16372.936000000002,11513.500582265913,-26.204453449963168,3

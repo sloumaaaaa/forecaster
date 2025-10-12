@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0331,CADIVEU-BLONDE RECONSTRUCTOR-FIBER FILLER 1L -2-,CADIVEU,SOINS CAPILLAIRES,2026,826.4673333333334,692.9410299999998,380.5533333333442,,,628.6650300000007,632.1566816666696,"[2023, 2024, 2025]","[574.0509999999999, 1777.214, 128.137]",826.4673333333334,1777.214,128.137,696.490843195292,-77.67846410858965,3

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHAMP_RB_BOT_1L,SHAMPOING RB BOTOX 1L-6192488209328,RENEE BLANCHE,0%SSP,2026,10784.204000000002,11800.7588,3160.0429999995977,,,9564.338240000012,8827.336009999903,"[2024, 2025]","[13325.591, 8242.817000000001]",10784.204000000002,13325.591,8242.817000000001,2541.3869999999997,-38.14295365961629,2

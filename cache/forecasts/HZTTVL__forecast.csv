@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZTTVL,TEINT HZ TRESOR SA VIOLET,H. ZONE,TRESOR,2026,1178.7813333333334,1840.0300874999998,0.0,,,977.9455600000011,999.1892452083335,"[2021, 2022, 2023, 2024, 2025]","[2663.022, 4793.377, 1481.256, 1409.6779999999999, 645.41]",2198.5486,4793.377,645.41,1448.995167219215,-75.76400044761178,5

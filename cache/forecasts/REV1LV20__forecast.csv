@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-REV1LV20,REVELATEUR 20V 1000ML,H. ZONE,TRESOR,2026,11323.870333333334,8548.0978389,15825.336799999699,,,11356.021450000002,11763.331605558258,"[2021, 2022, 2023, 2024, 2025]","[1544.925, 6835.566, 11015.775, 11469.868, 11485.968]",8470.420399999999,11485.968,1544.925,3878.254213363874,643.4644400213604,5

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0104,CADIVEU-HAIR REMEDY-MASK 200 ML  ,CADIVEU,SOINS CAPILLAIRES,2026,4897.76,4412.997172829999,2993.346799999941,0.0,0.0,1110.1595200000002,2235.7105821383234,"[2020, 2021, 2022, 2023, 2024, 2025]","[1961.04, 9561.951000000001, 11209.275, 13430.466, 1243.325, 19.489]",6237.591,13430.466,19.489,5313.549281284623,-99.0061905927467,6

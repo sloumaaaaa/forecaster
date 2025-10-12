@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488209229,KIT SO NATURAL RB S/A 7.0,RENEE BLANCHE,MASS MARKET,2026,26447.7845,26672.4015,24763.157000000123,,,26178.244100000044,26015.39677500004,"[2024, 2025]","[27009.327, 25886.242000000002]",26447.7845,27009.327,25886.242000000002,561.5424999999996,-4.158137668517246,2

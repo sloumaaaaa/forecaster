@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBT/55,TEINT RENEE BLANCHE 55 INT ROUGE 60ML,RENEE BLANCHE,COLORATION 60ML,2026,1659.4643333333333,3468.0538398999993,0.0,,,1618.8804199999981,1686.5996483083327,"[2021, 2022, 2023, 2024, 2025]","[8966.686, 2390.9069999999997, 2043.493, 1241.503, 1693.397]",3267.1972,8966.686,1241.503,2875.0580212048867,-81.11457231802251,5

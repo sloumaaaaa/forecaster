@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488208673,Gel douche RB Soft Sensitive MM 470ml ,RENEE BLANCHE,MASS MARKET,2026,43916.40633333334,39444.1369,41773.45533333346,,,41619.940139999955,41688.48467666669,"[2023, 2024, 2025]","[32350.45, 69191.27, 30207.499]",43916.40633333334,69191.27,30207.499,17893.427280681222,-6.624176788885475,3

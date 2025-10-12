@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATUBS500,IALO THERAPY UNLIMITED BLOND SHAMPOO 500 ML,H. ZONE,IALO,2026,4983.038333333334,5132.207093,0.0,,,1507.5872600000005,2905.7081715833338,"[2022, 2023, 2024, 2025]","[8047.865, 12422.424, 2359.047, 167.644]",5749.245,12422.424,167.644,4807.8759362333285,-97.91691336770684,4

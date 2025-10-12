@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBT/66,TEINT RENEE BLANCHE 66 INT VIOLET 60ML,RENEE BLANCHE,COLORATION 60ML,2026,1259.867,3411.1466164999997,0.0,,,1292.8695799999998,1490.9707991249998,"[2021, 2022, 2023, 2024, 2025]","[9575.807, 2779.132, 1357.129, 1113.521, 1308.951]",3226.9080000000004,9575.807,1113.521,3229.552880286558,-86.33064555290221,5

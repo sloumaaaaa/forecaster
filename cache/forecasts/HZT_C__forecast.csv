@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZT/C,TEINT IALO CASTAGNA 100ML,H. ZONE,IALO,2024,20.516333333333332,314.87235699999985,0.0,,,0.0,83.84717258333329,"[2020, 2021, 2022, 2023]","[945.946, 289.027, -179.659, -47.819]",251.87374999999997,945.946,-179.659,435.6469071767726,-105.05515113970564,4

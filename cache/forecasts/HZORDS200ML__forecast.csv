@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZORDS200ML,H.Z OPTION RAINBOW SHAMPOO CHEVEUX COLORES 200ML,H. ZONE,IALO,2022,451.9025,638.9535,0.0,,,227.44130000000018,329.57432500000004,"[2020, 2021]","[919.53, -15.725000000000001]",451.9025,919.53,-15.725000000000001,467.6275,-101.71011277500463,2

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-KP0073,CADIVEU ESSENTIALS -BB KIT HOME CARE,CADIVEU,SOINS CAPILLAIRES,2026,5474.287333333334,5730.683304,0.0,,,2165.452390000003,3342.6057568333345,"[2022, 2023, 2024, 2025]","[8387.316, 9283.358, 7251.899, -112.39500000000008]",6202.5445,9283.358,-112.39500000000008,3716.32358939332,-101.34005920368327,4

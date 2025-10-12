@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-TRBSA6.34,TEINT RB SANS AMONIAQUE 60ML 6.34,RENEE BLANCHE,COLORATION SANS AMMONIAQUE,2026,1031.6373333333333,1471.945417,66.49750000005588,,,805.0309899999992,843.777810083347,"[2022, 2023, 2024, 2025]","[2444.818, 1110.3790000000001, 1391.253, 593.28]",1384.9325,2444.818,593.28,675.5535742909293,-75.73316295936957,4

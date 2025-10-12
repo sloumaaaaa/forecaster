@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0565,CADIVEU PROFES NUTRI GLOW MIRACLE BOOSTER 200ML,CADIVEU,SOINS CAPILLAIRES,2026,1078.364,1278.3572,0.0,,,838.3721599999991,798.7733399999997,"[2024, 2025]","[1578.347, 578.381]",1078.364,1578.347,578.381,499.983,-63.35526978541475,2

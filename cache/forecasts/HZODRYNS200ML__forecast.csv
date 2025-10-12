@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZODRYNS200ML,H.Z OPTION DRYNESS  SHAMPOO CHEVEUX SEC 200ML,H. ZONE,IALO,2022,545.4025,773.1514999999999,0.0,,,272.10369999999995,397.664425,"[2020, 2021]","[1114.775, -23.97]",545.4025,1114.775,-23.97,569.3725000000001,-102.15020968356842,2

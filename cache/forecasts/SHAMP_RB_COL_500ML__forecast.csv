@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHAMP_RB_COL_500ML,SHAMPOING RB COLLAGENE 500ML-6192488209335,RENEE BLANCHE,0%SSP,2026,33669.0345,36912.1579,9345.609000001103,,,29777.286419999964,27426.021955000266,"[2024, 2025]","[41776.843, 25561.226]",33669.0345,41776.843,25561.226,8107.808500000001,-38.8148453438667,2

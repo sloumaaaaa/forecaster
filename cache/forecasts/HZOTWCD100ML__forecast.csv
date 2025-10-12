@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZOTWCD100ML,H.Z OPTION TWIST CREME CHEVEUX BOUCLES  200ML,H. ZONE,IALO,2022,-55.1225,-87.09949999999999,184.7050000000163,,,0.0,10.62075000000408,"[2020, 2021]","[-135.065, 24.819999999999997]",-55.1225,24.819999999999997,-135.065,79.9425,-118.37633731906858,2

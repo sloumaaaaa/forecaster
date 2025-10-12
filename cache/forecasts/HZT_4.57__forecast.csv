@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZT/4.57,TEINT IALO 4.57 100ML,H. ZONE,IALO,2024,-40.292,-40.326708999999994,0.0,,,0.0,-20.15467725,"[2020, 2021, 2022, 2023]","[-20.685999999999986, -0.963000000000001, -32.045, -87.868]",-35.390499999999996,-0.963000000000001,-87.868,32.27443048684206,324.77037609977793,4

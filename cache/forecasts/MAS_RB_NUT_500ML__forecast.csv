@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-MAS_RB_NUT_500ML,MASQUE RB NUTRITIF 500ML-6192488204736,RENEE BLANCHE,0%SSP,2026,44809.99733333333,33010.3295468,53399.56320000067,,,36700.175390000004,41980.016367533506,"[2021, 2022, 2023, 2024, 2025]","[7764.077, 35346.999, 53007.436, 52332.127, 29090.429]",35508.2136,53007.436,7764.077,16734.502751465734,274.6798106201162,5

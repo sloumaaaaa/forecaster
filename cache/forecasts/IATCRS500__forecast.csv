@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATCRS500,IALO THERAPY COLOR RESIST SHAMPOO 500 ML,H. ZONE,IALO,2026,5513.969666666667,6914.4547059999995,0.0,,,1713.8184599999981,3535.5607081666662,"[2022, 2023, 2024, 2025]","[12402.391, 12968.529, 3532.813, 40.567]",7236.075,12968.529,40.567,5591.094139179737,-99.67290984456143,4

@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-8006569145826,TEINT IALO ROSSO 100ML,H. ZONE,IALO,2023,-28.634000000000004,-56.293609999999994,82.58099999999104,,,0.0,-0.5866525000022413,"[2020, 2021, 2022]","[-130.442, 63.766999999999996, -19.227]",-28.634000000000004,63.766999999999996,-130.442,79.56403147570306,-85.26011560693641,3

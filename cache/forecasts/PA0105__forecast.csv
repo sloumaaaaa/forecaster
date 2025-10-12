@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0105,CADIVEU -HAIR REMDEDY MASK -500ML,CADIVEU,SOINS CAPILLAIRES,2025,898.5546666666668,742.8227099999999,2271.8856666667853,,,1308.5435499999992,1305.4516483333628,"[2022, 2023, 2024]","[143.604, 1035.125, 1516.9350000000002]",898.5546666666668,1516.9350000000002,143.604,568.9159872660364,956.3319963232223,3

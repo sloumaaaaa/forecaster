@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZKAM500ML,H ZONE KERATINE ACTIVE DEEP REPAIR MASK 500ML,H. ZONE,IALO,2024,840.1696666666666,1093.5550499999997,0.0,,,92.99732999999988,506.6805116666665,"[2021, 2022, 2023]","[2126.0969999999998, 739.512, -345.1]",840.1696666666666,2126.0969999999998,-345.1,1011.3695755744066,-116.23162066453223,3

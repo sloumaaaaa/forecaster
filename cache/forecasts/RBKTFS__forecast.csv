@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTFS,KERA/THER RB SHAMP FORTIFIANT 250ML-6192488205788,RENEE BLANCHE,MASS MARKET,2026,4392.305,6956.5012069999975,0.0,,,3957.0708499999937,3826.4692642499977,"[2022, 2023, 2024, 2025]","[12278.777, 6110.907999999999, 3035.832, 4030.175]",6363.922999999999,12278.777,3035.832,3590.6853058756765,-67.17771647778928,4

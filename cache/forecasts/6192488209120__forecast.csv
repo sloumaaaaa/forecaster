@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-6192488209120,TEINT HZ TRESOR SA VERDE,H. ZONE,TRESOR,2026,865.813,1025.5202,0.0,,,674.1643599999989,641.3743899999997,"[2024, 2025]","[1265.081, 466.545]",865.813,1265.081,466.545,399.268,-63.12133373278074,2

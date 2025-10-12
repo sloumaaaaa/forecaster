@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-SHA_RB_SILV_500ML,SHAMPOING RB SILVER 500ML-6192488204903,RENEE BLANCHE,0%SSP,2026,30793.048666666666,23243.870884999997,36462.525700000115,,,25709.502219999988,29052.23686791669,"[2021, 2022, 2023, 2024, 2025]","[6051.854, 27106.774, 36318.575, 35060.757, 20999.814]",25107.5548,36318.575,6051.854,11033.978002766244,246.99802738136114,5

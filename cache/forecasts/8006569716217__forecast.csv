@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-8006569716217,TEINT IALO MOKA 100ML,H. ZONE,IALO,2024,-35.70066666666667,-79.055424,46.57049999998708,,,0.0,-17.046397666669897,"[2020, 2021, 2022, 2023]","[-168.717, -56.719, -25.19, -25.193]",-68.95475,-25.19,-168.717,59.01835351979501,-85.06789475867873,4

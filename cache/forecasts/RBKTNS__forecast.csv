@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTNS,KERA/THER RB SHAMP NUTRITIF 250ML-6192488205771,RENEE BLANCHE,MASS MARKET,2026,4691.625999999999,7034.707130999999,0.0,,,3611.8511900000026,3834.5460802500006,"[2022, 2023, 2024, 2025]","[12339.402, 6998.605, 3882.051, 3194.222]",6603.57,12339.402,3194.222,3608.536435866832,-74.11364019099142,4

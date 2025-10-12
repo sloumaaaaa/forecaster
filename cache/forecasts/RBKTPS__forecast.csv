@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBKTPS,KERA/THER RB SHAMP PROTECTEUR 250ML-6192488205795,RENEE BLANCHE,MASS MARKET,2026,3604.2909999999997,6424.493122999999,0.0,,,3348.30147,3344.27139825,"[2022, 2023, 2024, 2025]","[12142.369999999999, 5334.679, 1866.62, 3611.574]",5738.81075,12142.369999999999,1866.62,3895.1216583874093,-70.25643264041534,4

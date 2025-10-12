@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZOSVOLUM200ML,H.Z OPTION WINDY SHAMPOO VOLUME CHEVEUX FINS 200ML,H. ZONE,IALO,2022,222.14749999999998,317.2965,0.0,,,107.96869999999994,161.85317499999996,"[2020, 2021]","[460.02, -15.725000000000001]",222.14749999999998,460.02,-15.725000000000001,237.8725,-103.41832963784184,2

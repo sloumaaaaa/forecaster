@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZT/GO,TEINT IALO GIALO ORO100ML,H. ZONE,IALO,2024,-92.9305,-127.53909999999999,51.271999999997206,,,0.0,-42.299400000000695,"[2020, 2023]","[-179.452, -6.409]",-92.9305,-6.409,-179.452,86.52149999999999,-96.42857142857143,2

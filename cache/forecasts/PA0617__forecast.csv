@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0617,CADIVEU ESSENTIALS- HAIR REMEDY - SOS SERUM 120ML,CADIVEU,SOINS CAPILLAIRES,2026,5109.9865,5727.3035,480.10900000017136,,,4369.206100000001,3921.6512750000434,"[2024, 2025]","[6653.279, 3566.694]",5109.9865,6653.279,3566.694,1543.2925,-46.391936968222744,2

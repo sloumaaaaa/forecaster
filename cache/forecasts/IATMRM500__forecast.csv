@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-IATMRM500,IALO THERAPY MAX REPAIR MASQUE 500 ML,H. ZONE,IALO,2026,6330.6613333333335,8058.028060999999,0.0,,,2210.0156399999987,4149.676258583333,"[2022, 2023, 2024, 2025]","[14335.919, 13709.812, 5102.068, 180.10399999999998]",8331.97575,14335.919,180.10399999999998,5955.1191084434395,-98.74368709812047,4

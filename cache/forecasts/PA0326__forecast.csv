@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-PA0326,BRASIL CACAU - SMOOTHING PROTEIN DOSE 110ML,CADIVEU,LISSAGE,2026,52358.21866666666,31272.539962999996,47005.13549999986,,,25515.76526999996,39037.91484991662,"[2022, 2023, 2024, 2025]","[5650.118, 56153.917, 102181.08899999999, -1260.35]",40681.1935,102181.08899999999,-1260.35,41856.635199414515,-122.30661377337606,4

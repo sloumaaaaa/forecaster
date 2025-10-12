@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-HZACMSC500ML,H ZONE ARGAN ACTIVE DEEP MASK 500ML,H. ZONE,IALO,2022,61.626,61.626,61.626,,,61.62600000000013,61.62600000000003,[2021],[61.626],61.626,61.626,61.626,0.0,0.0,1

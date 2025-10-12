@@ -1,2 +1,0 @@
-ref_article,designation,marque,famille,next_year,sma_forecast,es_forecast,lr_forecast,arima_forecast,prophet_forecast,xgb_forecast,avg_forecast,historical_years,historical_values,avg_sales,max_sales,min_sales,std_sales,trend_pct,data_points
-RBGDS550,RB GEL DOUCHE SENSUEL 550ML-6192488205856,RENEE BLANCHE,MASS MARKET,2025,14011.219,14377.308599999998,0.0,,,7325.4544000000005,8928.495499999999,"[2022, 2023, 2024]","[19899.174, 22373.684, -239.20100000000002]",14011.219,22373.684,-239.20100000000002,10127.080940637172,-101.20206497013393,3
