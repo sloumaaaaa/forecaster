@@ -1,4 +1,3 @@
-# sales_forecaster.py
 import os
 import warnings
 from pathlib import Path
@@ -94,7 +93,7 @@ class SalesForecaster:
     def clean_data(self):
         """Remove rows where sales are null or zero and keep relevant columns"""
         df = self.df_raw
-        required = [self.ref_col, self.date_col, self.sales_col]
+        required = [self.ref_col, self.sales_col]
         missing = [c for c in required if c not in df.columns]
         if missing:
             raise ValueError(f"Missing columns in the dataset: {missing}")
@@ -103,12 +102,19 @@ class SalesForecaster:
         
         # Handle date column based on frequency
         if self.frequency == 'yearly':
-            df_clean[self.date_col] = df_clean[self.date_col].astype(int)
+            # Use Année column
+            if 'Année' not in df_clean.columns:
+                raise ValueError("'Année' column not found for yearly frequency")
+            df_clean['period_key'] = df_clean['Année'].astype(int)
         else:  # monthly
-            # Try to parse as datetime if not already
-            if not pd.api.types.is_datetime64_any_dtype(df_clean[self.date_col]):
-                df_clean[self.date_col] = pd.to_datetime(df_clean[self.date_col], errors='coerce')
-            df_clean = df_clean[df_clean[self.date_col].notna()]
+            # Parse the Date column to extract year-month
+            if 'Date' not in df_clean.columns:
+                raise ValueError("'Date' column not found for monthly frequency")
+            if not pd.api.types.is_datetime64_any_dtype(df_clean['Date']):
+                df_clean['Date'] = pd.to_datetime(df_clean['Date'], errors='coerce')
+            df_clean = df_clean[df_clean['Date'].notna()]
+            # Create year-month period
+            df_clean['period_key'] = df_clean['Date'].dt.to_period('M')
             
         self.df_clean = df_clean
         return self.df_clean
@@ -120,20 +126,16 @@ class SalesForecaster:
 
         self.df_clean[self.ref_col] = self.df_clean[self.ref_col].astype(str)
 
-        # Create period column based on frequency
-        if self.frequency == 'monthly':
-            self.df_clean['period'] = self.df_clean[self.date_col].dt.to_period('M')
-        else:  # yearly
-            self.df_clean['period'] = self.df_clean[self.date_col]
-
         available_columns = [c for c in ['Marque', 'Famille', 'Sous Famille', 'Designation'] 
                            if c in self.df_clean.columns]
         agg_dict = {self.sales_col: 'sum'}
         for col in available_columns:
             agg_dict[col] = 'first'
 
-        grouped = self.df_clean.groupby([self.ref_col, 'period']).agg(agg_dict).reset_index()
+        grouped = self.df_clean.groupby([self.ref_col, 'period_key']).agg(agg_dict).reset_index()
+        grouped.rename(columns={'period_key': 'period'}, inplace=True)
         grouped[self.ref_col] = grouped[self.ref_col].astype(str)
+        grouped = grouped.sort_values([self.ref_col, 'period']).reset_index(drop=True)
 
         self.grouped_data = grouped
         return grouped
@@ -232,7 +234,7 @@ class SalesForecaster:
             next_period = periods[-1] + 1
             next_X = np.array([[next_period.ordinal]])
         else:
-            X = np.array(periods).reshape(-1, 1)
+            X = np.array([int(p) for p in periods]).reshape(-1, 1)
             next_X = np.array([[int(max(periods) + 1)]])
         
         y = np.array(values)
@@ -284,13 +286,13 @@ class SalesForecaster:
             if self.frequency == 'monthly':
                 dates = [p.to_timestamp() for p in periods]
             else:
-                dates = pd.to_datetime(periods, format='%Y')
+                dates = pd.to_datetime([str(int(p)) for p in periods], format='%Y')
             
             dfp = pd.DataFrame({'ds': dates, 'y': values})
             m = Prophet(yearly_seasonality=True, daily_seasonality=False, weekly_seasonality=False)
             m.fit(dfp)
             
-            freq = 'M' if self.frequency == 'monthly' else 'Y'
+            freq = 'MS' if self.frequency == 'monthly' else 'YS'
             future = m.make_future_dataframe(periods=1, freq=freq)
             fc = m.predict(future)
             forecast = float(max(0.0, fc.iloc[-1]['yhat']))
@@ -315,7 +317,7 @@ class SalesForecaster:
             next_period = periods[-1] + 1
             next_X = np.array([[next_period.ordinal]])
         else:
-            X = np.array(periods).reshape(-1, 1)
+            X = np.array([int(p) for p in periods]).reshape(-1, 1)
             next_X = np.array([[int(max(periods) + 1)]])
         
         y = np.array(values)
@@ -476,7 +478,7 @@ class SalesForecaster:
             'frequency': self.frequency,
             'next_period': next_period,
             'avg_forecast': float(avg_forecast),
-            # FIXED: Convert to lists and JSON serialize for proper CSV storage/loading
+            # Convert periods to strings for JSON serialization
             'historical_periods': json.dumps([str(p) for p in periods]),
             'historical_values': json.dumps([float(v) for v in values]),
             'avg_sales': avg_sales,
@@ -575,31 +577,7 @@ class SalesForecaster:
                 continue
 
             row = f.iloc[0].to_dict()
-            vals = row.get('historical_values', [])
-            if len(vals) == 0:
-                continue
-
-            if lookback_periods <= 0:
-                last_mean = float(np.mean(vals))
-            else:
-                last_vals = vals[-lookback_periods:] if len(vals) >= lookback_periods else vals
-                last_mean = float(np.mean(last_vals)) if last_vals else 0.0
-
-            next_forecast = float(row.get('avg_forecast', 0.0))
-            trend_label = self.classify_trend_label(last_mean, next_forecast, tol=0.05)
-
-            recs.append({
-                'ref_article': row['ref_article'],
-                'designation': row.get('designation'),
-                'marque': row.get('marque'),
-                'famille': row.get('famille'),
-                'frequency': row.get('frequency'),
-                'next_period': row.get('next_period'),
-                'avg_forecast': float(row.get('avg_forecast', 0.0)),
-                'trend_pct': float(row.get('trend_pct', 0.0)),
-                'trend_label': trend_label,
-                'data_points': int(row.get('data_points', 0))
-            })
+            recs.append(row)
 
         df_summary = pd.DataFrame(recs)
         if not df_summary.empty:

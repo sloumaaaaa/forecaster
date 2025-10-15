@@ -118,7 +118,7 @@ def parse_metrics(metrics_str):
     return parse_json_field(metrics_str)
 
 def create_forecast_chart(historical_periods, historical_values, forecast_value, next_period, frequency):
-    """Create an interactive forecast visualization"""
+    """Create an interactive forecast visualization - fixed for monthly support"""
     
     # Parse historical_values if it's a JSON string
     if isinstance(historical_values, str):
@@ -140,30 +140,54 @@ def create_forecast_chart(historical_periods, historical_values, forecast_value,
     if isinstance(historical_periods, np.ndarray):
         historical_periods = historical_periods.tolist()
     
+    # Convert periods to strings for display
+    # For monthly, periods come as strings like '2024-01'
+    # For yearly, they come as integers
+    if frequency == 'monthly':
+        period_labels = [str(p) for p in historical_periods]
+        next_period_label = str(next_period)
+    else:
+        period_labels = [str(int(p)) for p in historical_periods]
+        next_period_label = str(int(next_period))
+    
+    # Create numeric x-axis for proper ordering
+    x_numeric = list(range(len(historical_periods)))
+    x_numeric_next = len(historical_periods)
+    
     fig = go.Figure()
     
     # Historical data
     fig.add_trace(go.Scatter(
-        x=[str(p) for p in historical_periods],
+        x=x_numeric,
         y=historical_values,
         mode='lines+markers',
         name='Historical Sales',
         line=dict(color='#1f77b4', width=3),
-        marker=dict(size=8)
+        marker=dict(size=8),
+        text=period_labels,
+        hovertemplate='<b>%{text}</b><br>Sales: %{y:.2f}<extra></extra>'
     ))
     
-    # Forecast point
-    all_periods = [str(p) for p in historical_periods] + [str(next_period)]
-    all_values = list(historical_values) + [forecast_value]
-    
+    # Forecast point - connect last historical point to forecast
     fig.add_trace(go.Scatter(
-        x=[str(historical_periods[-1]), str(next_period)],
+        x=[x_numeric[-1], x_numeric_next],
         y=[historical_values[-1], forecast_value],
         mode='lines+markers',
         name='Forecast',
         line=dict(color='#ff7f0e', width=3, dash='dash'),
-        marker=dict(size=10, symbol='star')
+        marker=dict(size=10, symbol='star'),
+        text=[period_labels[-1], next_period_label],
+        hovertemplate='<b>%{text}</b><br>Sales: %{y:.2f}<extra></extra>'
     ))
+    
+    # Update x-axis to show period labels
+    fig.update_xaxes(
+        tickmode='linear',
+        tick0=0,
+        dtick=1,
+        ticktext=period_labels + [next_period_label],
+        tickvals=x_numeric + [x_numeric_next]
+    )
     
     fig.update_layout(
         title=f"Sales Forecast ({frequency.capitalize()})",
@@ -669,10 +693,3 @@ else:
     </div>
     """, unsafe_allow_html=True)
 
-# Footer
-st.markdown("---")
-st.markdown("""
-    <div style="text-align: center; color: #666;">
-        <p>Sales Forecasting Dashboard | Powered by Streamlit & Python 📊</p>
-    </div>
-""", unsafe_allow_html=True)
